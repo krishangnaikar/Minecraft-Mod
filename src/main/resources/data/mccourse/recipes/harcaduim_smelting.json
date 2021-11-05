@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "mccourse:harcaduim_block"
+    },
+    "result": "mccourse:harcaduim_wire",
+    "experience": 100,
+    "cookingtime": 200
+}

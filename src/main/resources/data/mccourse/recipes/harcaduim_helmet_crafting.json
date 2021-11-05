@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "mccourse:corupted_harcaduim"
+        }
+    },
+    "result": {
+        "item": "mccourse:harcaduim_helmet",
+        "count": 1
+    }
+}

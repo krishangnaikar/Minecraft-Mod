@@ -1,0 +1,22 @@
+{
+  "item.mccourse.harcaduim": "Harcaduim",
+  "item.mccourse.harcaduim_wire": "Harcaduim Wire",
+  "item.mccourse.lightning_bolt" : "Lightning Bolt",
+  "item.mccourse.corupted_harcaduim": "Corrupted Harcaduim",
+  "item.mccourse.harcaduim_apple" : "Harcaduim Apple",
+
+  "item.mccourse.harcaduim_shovel" : "Harcaduim Shovel",
+  "item.mccourse.harcaduim_sword" : "Harcaduim Sword",
+  "item.mccourse.harcaduim_pickaxe" : "Harcaduim Pickaxe",
+  "item.mccourse.harcaduim_axe" : "Harcaduim Axe",
+
+  "item.mccourse.harcaduim_helmet" : "Harcaduim Helmet",
+  "item.mccourse.harcaduim_chestplate" : "Harcaduim Chestplate",
+  "item.mccourse.harcaduim_leggings" : "Harcaduim Legggings",
+  "item.mccourse.harcaduim_boots" : "Harcaduim Boots",
+
+  "block.mccourse.harcaduim_ore": "Harcaduim Ore",
+  "block.mccourse.harcaduim_block": "Harcaduim Block",
+
+  "itemGroup.Harcaduim": "Harcaduim"
+}

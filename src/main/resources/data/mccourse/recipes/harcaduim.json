@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "",
+    "ingredients":
+    [
+    {"item":"mccourse:harcaduim_block"}
+    ],
+    "result":
+    {
+    "item": "mccourse:harcaduim",
+    "count": 9
+    }
+}
+

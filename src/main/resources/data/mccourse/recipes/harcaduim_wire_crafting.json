@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "   ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "mccourse:harcaduim"
+        }
+    },
+    "result": {
+        "item": "mccourse:harcaduim_wire",
+        "count": 1
+    }
+}
